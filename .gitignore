@@ -1,0 +1,13 @@
+# VSCode
+.vscode/
+
+# Python
+**/.venv/
+**/__pycache__
+
+# I/O
+chat_data/**
+out/**
+
+# Ignore readme files
+!**/**.md

@@ -1,0 +1,1 @@
+Location for output of analysis (images, graphs)
